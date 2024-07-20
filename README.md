@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shraddha
-- 👀 I’m interested in frontend and Cloud Computing
+- 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me - Shraddha6184@gmail.com
 
