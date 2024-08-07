@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shraddha
+- 👋 Hi, I’m Shraddha From Mumbai
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me - Shraddha6184@gmail.com
